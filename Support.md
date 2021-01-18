@@ -1,1 +1,2 @@
-
+# Kataline Support
+if you like my project, please support me by joining my [Discord Server](https://discord.com/pk5ZqgCUeF) or you can [Donate Here](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=raisdzakidziluwlah@gmail.com&lc=US&item_name=Kataline Donate Support&no_note=0&cn=&currency_code=USD&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted) or be our [Patrons](https://www.patreon.com/itzrais). TY!
