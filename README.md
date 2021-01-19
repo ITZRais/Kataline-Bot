@@ -1,4 +1,4 @@
-  [![PayPal](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=raisdzakidziluwlah@gmail.com&lc=US&item_name=KatalineDonateSupport&nonote=0&cn=&currencycode=USD&bn=PP-DonationsBF:btn_donateCCLG.gif:NonHosted)   [![Patreon](https://img.shields.io/badge/Patreon-Patrons-red)](https://www.patreon.com/itzrais)
+  [![PayPal](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=raisdzakidziluwlah@gmail.com&lc=US&item_name=KatalineDonateSupport&nonote=0&cn=&currencycode=USD&bn=PP-DonationsBF:btn_donateCCLG.gif:NonHosted)   [![Patreon](https://img.shields.io/badge/patreon-patrons-red)](https://www.patreon.com/itzrais)   [![Discord](https://img.shields.io/badge/discord-join-blue)](https://discord.com/pk5ZqgCUeF)
 
 # About Kataline-Bot
 A bot for discord server, Based for moderation but with some fun Commands!
