@@ -10,7 +10,8 @@ const kataline = new Client({
 					, url: 'github.com/ITZRais/Kataline-Bot'
 				}
 			}
-        
+	}
+)};
 client.on('ready', async() => {
     console.log('Iam Online BITCHES');
 });
