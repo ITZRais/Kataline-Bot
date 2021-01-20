@@ -10,7 +10,7 @@ if you like my project, please support me by joining my [Discord Server](https:/
 
 # How To Use Kataline-Bot
 if you want to use kataline-bot there's the installation tips:
- - 1 Download Release File
+ - 1 Download [Release](https://github.com/ITZRais/Kataline-Bot/releases) File
  - 2 Unzip/Extract .Zip File
  - 3 Edit Config.json File
  - 4 Go To "commands/Editable", Edit All .js File, Edit All "(Your Channel Here)" To Your Custom Channel ID And "(Your Role Here)" To Your Custom Role ID
